@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CRUDSQLITE</string>
+    <string name="cursos">CURSOS</string>
+    <string name="codigo">Codigo</string>
+    <string name="curso">Curso</string>
+    <string name="carrera">Carrera</string>
+    <string name="agregar">Agregar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="Listar_todos">Listar todos</string>
+    <string name="buscar">Buscar</string>
+    <string name="limpiar_todo">Limpiar todo</string>
+</resources>
